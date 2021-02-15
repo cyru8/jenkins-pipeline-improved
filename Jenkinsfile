@@ -1,4 +1,4 @@
-@Library('github.com/cyru8/jenkins-demo-shared-pipeline')
+@Library('github.com/cyru8/jenkins-demo-shared-pipeline') _
 
 pipeline {
     agent any
